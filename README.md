@@ -38,12 +38,15 @@ In security, we often are working in smaller and specialized teams that we forge
 
 # SSH From Kali to Victim
 <img width="604" height="405" alt="image" src="https://github.com/user-attachments/assets/4fe15d7e-6dca-4d3f-a508-65f3e9216a76" />
+
 1) SSH from Kali to Victim Machine
 
 <img width="899" height="237" alt="image" src="https://github.com/user-attachments/assets/9864ed14-560f-4ab8-8654-d5261ff04287" />
+
 2) Wazuh Manager Detecting SSH Login from Attacker Machine
 
 <img width="917" height="148" alt="image" src="https://github.com/user-attachments/assets/6005fce1-e94d-4b2e-b515-a10c58221a5b" />
+
 3) Wazuh Manager Detecting .txt File Creation on the Victim Machine
 
 # Summary + Future Plans
