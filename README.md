@@ -5,9 +5,9 @@ Home lab on Linux VMs using  Kali and Wazuh
 In security, we often are working in smaller and specialized teams that we forget to see the bigger picture. This is often constrained due to large enterprise environments and red/blue specialization in the field. So I decided I would create a home lab that features an attacking machhine, a victim  machine, and a Wazuh based SIEM to monitor logs from the attacker. Below is a network diagram of my project:
 
                          ┌────────────────────────────────────┐
-                         │     VirtualBox Internal Network     │
-                         │              “LabNet”               │
-                         │        (Completely Isolated)        │
+                         │     VirtualBox Internal Network    │
+                         │              “LabNet”              │
+                         │        (Completely Isolated)       │
                          └────────────────────────────────────┘
                                       │        │        │
                                       │        │        │
