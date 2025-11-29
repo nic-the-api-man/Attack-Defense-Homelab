@@ -27,3 +27,5 @@ In security, we often are working in smaller and specialized teams that we forge
                      ✦ NO machine can reach the internet  
                      ✦ Host machine CANNOT see the lab  
                      ✦ Safe for attacks, scans, malware tests  
+
+# Setting up the VMs and Network
