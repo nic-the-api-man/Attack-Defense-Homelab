@@ -35,3 +35,21 @@ In security, we often are working in smaller and specialized teams that we forge
 2) Used an the quick installation for the Wazuh manager and deployed agents to the Ubuntu victim machine
 3) Make sure you do not change the firewall rules on you wazuh manager. This may block agents from contacting it.
 4) Begin Attacking!
+
+# SSH From Kali to Victim
+<img width="604" height="405" alt="image" src="https://github.com/user-attachments/assets/4fe15d7e-6dca-4d3f-a508-65f3e9216a76" />
+1) SSH from Kali to Victim Machine
+
+<img width="899" height="237" alt="image" src="https://github.com/user-attachments/assets/9864ed14-560f-4ab8-8654-d5261ff04287" />
+2) Wazuh Manager Detecting SSH Login from Attacker Machine
+
+<img width="917" height="148" alt="image" src="https://github.com/user-attachments/assets/6005fce1-e94d-4b2e-b515-a10c58221a5b" />
+3) Wazuh Manager Detecting .txt File Creation on the Victim Machine
+
+# Summary + Future Plans
+
+I'll be tuning alerts and trying different attacks on the victim machine and then viewing them from the defensive side. Feel free to follow along!
+
+3) 
+
+
