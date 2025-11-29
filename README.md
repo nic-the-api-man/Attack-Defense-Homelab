@@ -53,6 +53,6 @@ In security, we often are working in smaller and specialized teams that we forge
 
 I'll be tuning alerts and trying different attacks on the victim machine and then viewing them from the defensive side. Feel free to follow along!
 
-3) 
+
 
 
