@@ -9,9 +9,9 @@ In security, we often are working in smaller and specialized teams that we forge
                          │              “LabNet”              │
                          │        (Completely Isolated)       │
                          └────────────────────────────────────┘
-                                      │        │        │
-                                      │        │        │
-                                      ▼        ▼        ▼
+                            │            │                 │
+                            │            │                 │
+                            ▼            ▼                 ▼
          ┌──────────────────┐   ┌──────────────────┐   ┌──────────────────┐
          │   Wazuh Server   │   │  Ubuntu Victim   │   │   Kali Attacker  │
          │  SIEM / Manager  │   │    Target VM     │   │  Pen-Testing VM  │
